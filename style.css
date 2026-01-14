@@ -1,0 +1,33 @@
+/* .Home{
+    background-image: url(../hexagonal-geometric-background-with-wave-line-hexagon-genetic-social-network_618588-603.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center;
+} */
+body{
+    background-color: black;
+}
+
+header{
+    background-color: #260f28;
+    padding: 30px 0;
+}
+nav{
+    display: flex;
+    justify-content: center;
+}
+a{
+    color: antiquewhite;
+    font-size: 20px;
+    text-decoration: none;
+    padding: 8px 15px;
+}
+p{
+    color: wheat;
+}
+section{
+    color: white;
+}
+h1{
+    color: blue;
+}
